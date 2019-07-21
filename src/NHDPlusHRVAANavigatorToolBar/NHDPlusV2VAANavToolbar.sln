@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NHDPlusV2VAANavToolbar", "NHDPlusV2VAANavToolbar.vbproj", "{4600B1B5-B665-4747-B130-B8D8F6C7D6DB}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "NHDPlusV02Navigator", "..\NHDPlusV2VAANavigator\NHDPlusV02Navigator.vbproj", "{3F5FC436-4D17-46A7-A41F-546F8314E3E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4600B1B5-B665-4747-B130-B8D8F6C7D6DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4600B1B5-B665-4747-B130-B8D8F6C7D6DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4600B1B5-B665-4747-B130-B8D8F6C7D6DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4600B1B5-B665-4747-B130-B8D8F6C7D6DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F5FC436-4D17-46A7-A41F-546F8314E3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F5FC436-4D17-46A7-A41F-546F8314E3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F5FC436-4D17-46A7-A41F-546F8314E3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

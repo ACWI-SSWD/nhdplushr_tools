@@ -1,0 +1,2 @@
+C:\Users\rmd\AppData\Local\Temporary Projects\RegisterNHDPlusHRVaaNavigatorToolbar\bin\Debug\RegisterNHDPlusHRVaaNavigatorToolbar.exe.config
+E:\NHDPlusHRVAANavigator\RegisterNHDPlusHRVaaNavigatorToolbar\RegisterNHDPlusHRVaaNavigatorToolbar\bin\Debug\RegisterNHDPlusHRVaaNavigatorToolbar.exe.config
