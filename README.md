@@ -24,9 +24,9 @@ Installation Order: Microsoft .NET, Microsoft SQL Server 2012 Express LocalDB, M
 
 [Link to Microsoft .Net Framework version 4.5.2 Web installer](http://www.microsoft.com/en-us/download/details.aspx?id=42643)
 
-Microsoft SQL Server Install for NHDPlusHR Tools: [ftp://ftp.horizon-systems.com/NHDplus/NHDPlusV21/Tools/NHDPlusTools_MSSQLServer2012ExpressLocalDB_x64_Install.7z](http://bit.ly/2GkHPAY)
+[Download Microsoft SQL Server Install for NHDPlusHR Tools](http://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Tools/NHDPlusTools_MSSQLServer2012ExpressLocalDB_x64_Install.7z)
 
-Microsoft SQL Server Management Studio Install: [ftp://ftp.horizon-systems.com/NHDplus/NHDPlusV21/Tools/SQLManagementStudio_x64_ENU.7z](http://bit.ly/2JHeNxv)
+[Download Microsoft SQL Server Management Studio Install](http://www.horizon-systems.com/NHDPlusData/NHDPlusV21/Tools/SQLManagementStudio_x64_ENU.7z)
 
 ## Source Code
 
