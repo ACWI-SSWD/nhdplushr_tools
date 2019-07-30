@@ -31,3 +31,8 @@ Installation Order: Microsoft .NET, Microsoft SQL Server 2012 Express LocalDB, M
 ## Source Code
 
 Source code is available from the 'src' directory of this repository.
+
+## Smart Snapper Programming Specification
+SmartSnapper is a utility for migrating point and line events from one version of NHD (source) to another version of NHD (target).  The migration can go forward or backward in “NHD” time.  The two versions of NHD need not be the same resolution, however, migrating from a high resolution to a low resolution will not be as accurate.
+
+[Link to programming specification](https://github.com/ACWI-SSWD/nhdplushr_tools/raw/master/docs/Smart_Snapper_Version_2.pdf)
